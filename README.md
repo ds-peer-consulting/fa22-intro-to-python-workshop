@@ -1,5 +1,5 @@
 # Intro to Python
-By: Marlon Fu, Mein Lee
+By: Jun, Mein Lee
 Workshop Date: 10/17/2022
 
 ## UC Berkeley Students Click Here: [Datahub Link](http://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-peer-consulting/fa22-intro-to-python-workshop&branch=main&subpath=intro-to-python.ipynb)
